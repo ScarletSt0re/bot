@@ -1,3 +1,4 @@
+const keepAliveServer = require('./keep_alive.js');
 const {
     Client,
     Intents
